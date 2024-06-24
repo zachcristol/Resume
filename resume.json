@@ -1,0 +1,120 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "skills": "",
+    "projects": "",
+    "awards": "Community"
+  },
+  "basics": {
+    "email": "zachcristol@gmail.com",
+    "phone": "8176572213",
+    "location": {
+      "address": "Austin, TX"
+    },
+    "name": "Zachary Cristol"
+  },
+  "education": [
+    {
+      "institution": "The University of Texas at Austin",
+      "location": "Austin, TX",
+      "studyType": "BS",
+      "startDate": "August 2015",
+      "endDate": "June 2020",
+      "area": "Computer Science",
+      "gpa": "3.6"
+    }
+  ],
+  "work": [
+    {
+      "company": "HEB",
+      "location": "Austin, Tx",
+      "website": "",
+      "startDate": "June 2020",
+      "endDate": "December 2021",
+      "highlights": [
+        "Led development of a marketing tool for communications campaigns, managing 2M customers per campaign within a 4-hour window.",
+        "Optimized AWS infrastructure, implementing cost-saving measures that reduced AWS costs by 48 thousand dollars a year.",
+        "Managed and enhanced a communication system sending 600k messages daily via SMS, push, email, and voice.",
+        "Initiated and led semi-weekly meetings to assign and review pull requests across 18 repositories.",
+        "Spearheaded analytics integration into four production services, collaborating with two teams and contributing to their repositories.",
+        "Consistently developed test suites and launch plans to ensure successful rollout and reliable event tracking for new features.",
+        "Developed the frontend and backend systems for in-app grocery order check-ins, processing around 50k check-ins per day."
+      ],
+      "position": "Software Engineer II"
+    },
+    {
+      "highlights": [
+        "Led iOS push notification system delivering 100k daily notifications, enhancing HEB Curbside and Delivery.",
+        "Created and deployed the first iOS widget for MyHEB.",
+        "Developed an app review prompt system integrated with an external reporting system.",
+        "Rearchitected profile and communication preference experience.",
+        "Collaborated on MyHEB iOS platform with 400k daily and 1M total users, sharing responsibilities for app deployment, monitoring, and enhancements."
+      ],
+      "company": "HEB",
+      "position": "Software Engineer I",
+      "location": "Austin, Tx",
+      "startDate": "December 2021",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Added Redux to areas of the core React app, improving state management across multiple web products.",
+        "Integrated linters, testing frameworks, and deployment pipelines, significantly improving workflow efficiency and data tracking."
+      ],
+      "company": "Silvercar",
+      "position": "Frontend Developer",
+      "location": "Austin, TX",
+      "startDate": "May 2019",
+      "endDate": "August 2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Java, Spring Boot, Database System Design, Pub-Sub System Design, Python, Datadog"
+      ]
+    },
+    {
+      "keywords": [
+        "AWS, Terraform, Cloudformation, CICD Pipelines, Fastlane, Docker, ECS, ECR, Fargate"
+      ],
+      "name": "Infrastructure"
+    },
+    {
+      "keywords": [
+        "Swift, JavaScript, RxSwift/Combine, HTML, CSS"
+      ],
+      "name": "Frontend development"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mentor",
+      "date": "January 2021 - August 2021",
+      "awarder": "CAST Tech Mentorship",
+      "summary": "Mentored two high school students by holding bi-weekly meetings focused on technology skill development, positive habit building, college expectations, and career development, while providing organized resources on these topics."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
