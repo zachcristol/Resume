@@ -30,16 +30,16 @@
       "company": "HEB",
       "location": "Austin, Tx",
       "website": "",
-      "startDate": "June 2020",
-      "endDate": "December 2021",
+      "startDate": "December 2021",
+      "endDate": "Present",
       "highlights": [
         "Led development of a marketing tool for communications campaigns, managing 2M customers per campaign within a 4-hour window.",
         "Optimized AWS infrastructure, implementing cost-saving measures that reduced AWS costs by 48 thousand dollars a year.",
         "Managed and enhanced a communication system sending 600k messages daily via SMS, push, email, and voice.",
-        "Initiated and led semi-weekly meetings to assign and review pull requests across 18 repositories.",
-        "Spearheaded analytics integration into four production services, collaborating with two teams and contributing to their repositories.",
+        "Developed the frontend and backend systems for in-app grocery order check-ins, processing around 50k check-ins per day.",
         "Consistently developed test suites and launch plans to ensure successful rollout and reliable event tracking for new features.",
-        "Developed the frontend and backend systems for in-app grocery order check-ins, processing around 50k check-ins per day."
+        "Spearheaded analytics integration into four production services, collaborating with two teams and contributing to their repositories.",
+        "Initiated and led semi-weekly meetings to assign and review pull requests across 18 repositories."
       ],
       "position": "Software Engineer II"
     },
@@ -54,8 +54,8 @@
       "company": "HEB",
       "position": "Software Engineer I",
       "location": "Austin, Tx",
-      "startDate": "December 2021",
-      "endDate": "Present"
+      "startDate": "June 2020",
+      "endDate": "December 2021"
     },
     {
       "highlights": [
